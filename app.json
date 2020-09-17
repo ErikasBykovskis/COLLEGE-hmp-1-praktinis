@@ -1,0 +1,12 @@
+{
+  "name": "hmp-1-praktinis",
+  "displayName": "hmp-1-praktinis",
+  "expo": {
+    "name": "hmp-1-praktinis",
+    "slug": "hmp-1-praktinis",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
